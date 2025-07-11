@@ -36,7 +36,7 @@ This project was created to:
 
 ## 🌐 Live Demo
 
-[🔗 View on GitHub Pages](https:https://ganesh-911.github.io/iDesign/)  
+[🔗 View on GitHub Pages](https://ganesh-911.github.io/iDesign/)  
 > _(Update this link once your live site is deployed)_
 
 ---
