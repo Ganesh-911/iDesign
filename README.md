@@ -36,10 +36,34 @@ This project was created to:
 
 ## 🌐 Live Demo
 
-[🔗 View on GitHub Pages](https://ganeshh0925.github.io/repo-name/)  
+[🔗 View on GitHub Pages](https:https://ganesh-911.github.io/iDesign/)  
 > _(Update this link once your live site is deployed)_
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structureproject-folder/
+├── index.html
+├── images/
+│   ├── bus-front.svg
+│   ├── couple.jpg
+│   ├── dog.jpg
+│   ├── family.jpg
+│   ├── box-seam.svg
+│   ├── chevron-right.svg
+│   └── ...
+
+
+---
+
+## 🙌 Author
+
+**Ganesh Sai Durga**  
+GitHub: [@Ganesh-911](https://github.com/Ganesh-911)
+
+---
+
+## 📄 License
+
+This project is open-source and free to use.
+
 
